@@ -20,3 +20,24 @@ switch (day) {
 	default:
 		console.log("Normal day");
 }
+
+// early return
+
+// real backend example of early return
+
+const email = true;
+const password = false;
+
+if (!email) {
+	console.log("Email is missing");
+	return;
+}
+if (password === false) {
+	console.log("Password is wrong");
+	return;
+	console.log("Password was right");
+}
+
+console.log("passwords");
+
+// avoid deep nesting
