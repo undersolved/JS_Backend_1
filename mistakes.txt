@@ -1,3 +1,5 @@
 1. dont try to change const ever
 2. forgetting to declare variable
 3. using var
+4. reusing variable names
+5. 
