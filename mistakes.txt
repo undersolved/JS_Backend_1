@@ -13,10 +13,11 @@
 13. don't write deep nested loops, they are very slow
 14. keep nested loops shallow
 15. prefer clear logic over clever code
-16. try to make one function for one job
+16. try to make one  function for one job
 17. short functions are better
 18. avoid declaring too much global varaibles
-19. in function scoping --> outer variables can be accessed inside the function, but inner varaibles cant be accessed by outer functions or methods
+19. in  function scoping --> outer variables can be accessed inside the  function, but inner varaibles cant be accessed by outer functions or methods
 20. var ignores the block scoping
 21. func declaration good for main logic
 22. func expression good for helper logic
+23. In functions - if you need this, use normal  function - if you dont need this, use arrow  function
