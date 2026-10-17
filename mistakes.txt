@@ -21,3 +21,5 @@
 21. func declaration good for main logic
 22. func expression good for helper logic
 23. In functions - if you need this, use normal  function - if you dont need this, use arrow  function
+24. this is undefined in JS Strict mode
+25. arrow function do not have their own this
