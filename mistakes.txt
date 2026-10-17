@@ -2,4 +2,8 @@
 2. forgetting to declare variable
 3. using var
 4. reusing variable names
-5. 
+5. always use early return
+6. always use for of to loop over arrays and it's much clearer
+7. always use for in to loop over objects because it loops over keys
+8. use for when you need index
+9. use while for unknown count
