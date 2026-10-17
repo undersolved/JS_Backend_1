@@ -13,3 +13,4 @@
 13. don't write deep nested loops, they are very slow
 14. keep nested loops shallow
 15. prefer clear logic over clever code
+16. try to make one function for one job
