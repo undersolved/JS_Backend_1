@@ -14,3 +14,7 @@
 14. keep nested loops shallow
 15. prefer clear logic over clever code
 16. try to make one function for one job
+17. short functions are better
+18. avoid declaring too much global varaibles
+19. in function scoping --> outer variables can be accessed inside the function, but inner varaibles cant be accessed by outer functions or methods
+20. var ignores the block scoping
