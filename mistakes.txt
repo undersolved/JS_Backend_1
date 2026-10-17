@@ -7,3 +7,9 @@
 7. always use for in to loop over objects because it loops over keys
 8. use for when you need index
 9. use while for unknown count
+10. use break only when done
+11. use continue to skip bad data
+12. keep loop logic easy to read
+13. don't write deep nested loops, they are very slow
+14. keep nested loops shallow
+15. prefer clear logic over clever code
