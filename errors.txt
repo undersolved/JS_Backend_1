@@ -1,0 +1,7 @@
+1. Syntax error => if(true{console.log("Hello);}
+
+2. Reference error => console.log(username) => username not defined
+
+3. Type Error = > const age = 20, age.toUpperCase();
+
+4. runtime error => 
